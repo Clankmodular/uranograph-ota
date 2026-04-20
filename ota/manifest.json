@@ -1,9 +1,9 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b09",
-    "build":  11309,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b09.bin",
-    "size":  1382768,
-    "sha256":  "5f168f82c2ae150dd9f8b452bde401777a9ea95e0d7167f33fe27aa48256fcdb",
-    "notes":  "Password editor UI polish"
+    "version":  "1.13b12",
+    "build":  11312,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b12.bin",
+    "size":  1382896,
+    "sha256":  "e30be1818afb1fb19ae01de7015d7b85986e5568d8e36ac466b851eaedc2bd90",
+    "notes":  "OTA update 1.13b12"
 }
