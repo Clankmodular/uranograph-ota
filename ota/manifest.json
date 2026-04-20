@@ -1,9 +1,9 @@
-﻿{
+{
     "device":  "uranograph-esp32",
     "version":  "1.13b02",
     "build":  11302,
     "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b02.bin",
-    "size":  1370336,
-    "sha256":  "beb888132b2ea3332e199cf95bfffd93ad2ece8eba5ae6c4d2c8a3ab185f046b",
+    "size":  1370832,
+    "sha256":  "2bf27445d8be44e686a90b64e7ca00505e4a59ecf18fac6064893ff0411a4262",
     "notes":  "OTA-ready baseline build"
 }
