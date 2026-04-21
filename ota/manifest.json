@@ -1,11 +1,11 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b17",
-    "build":  11317,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b17.bin",
-    "size":  1401152,
-    "sha256":  "93c0732f7fbf83cb6a4d5b60d1a43dbba371483337c77fe7c4a63fbd2cad7408",
-    "notes":  "OTA smoke test #2 (ESP at 11316, Daisy COMMIT stub)",
+    "version":  "1.13b18",
+    "build":  11318,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b18.bin",
+    "size":  1401360,
+    "sha256":  "d65bc875b3dc08852616e622cc5eff91f3b6651087d885000cc3292a95ba59d3",
+    "notes":  "OTA smoke test #3: daisy HTTP retry + heap report",
     "daisy":  {
                   "version":  "0.1.0",
                   "build":  2,
