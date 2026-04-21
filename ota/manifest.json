@@ -1,11 +1,11 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b16",
-    "build":  11316,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b16.bin",
+    "version":  "1.13b17",
+    "build":  11317,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b17.bin",
     "size":  1401152,
-    "sha256":  "b674238f9450ad261946dba8bf91f93db2cadfe7e2372278adb42cc5ea9da2fc",
-    "notes":  "OTA smoke test: Daisy SPI flash, COMMIT stub returns NotImpl (no-op, safe)",
+    "sha256":  "93c0732f7fbf83cb6a4d5b60d1a43dbba371483337c77fe7c4a63fbd2cad7408",
+    "notes":  "OTA smoke test #2 (ESP at 11316, Daisy COMMIT stub)",
     "daisy":  {
                   "version":  "0.1.0",
                   "build":  2,
