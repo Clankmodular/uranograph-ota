@@ -5,5 +5,12 @@
     "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b49.bin",
     "size":  1407936,
     "sha256":  "636b9cc0ffd72dc3c49ecefb4db76d112e13837484b5adb8c75d9c9d2ebb77ca",
-    "notes":  "ESP-only recovery update from fw42; no Daisy block"
+    "notes":  "Daisy-only retry from ESP 1.13b49 with diagnostics",
+    "daisy":  {
+                  "version":  "0.1.11",
+                  "build":  1110,
+                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v0.1.11.bin",
+                  "size":  118144,
+                  "sha256":  "89731f7f6c71bd309cf0a9b303fc6adb54ac7998b277f19ee38a1d78c55dc146"
+              }
 }
