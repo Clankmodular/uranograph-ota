@@ -1,11 +1,11 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b52",
-    "build":  11352,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b52.bin",
-    "size":  1411088,
-    "sha256":  "3c12f68ff1f50903441fa5bec8c27b41a1f17d184f2b6ce4c1a69fdca1932421",
-    "notes":  "Two-stage OTA validation: ESP 52 then Daisy resume after reboot",
+    "version":  "1.13b53",
+    "build":  11353,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b53.bin",
+    "size":  1411248,
+    "sha256":  "ce4ac4ce03a511dea6a16c3efdce116b65cd1eaa8ce352ad87988d08f64d32ca",
+    "notes":  "Two-stage OTA validation with reduced loopTask stack usage",
     "daisy":  {
                   "version":  "0.1.12",
                   "build":  1111,
