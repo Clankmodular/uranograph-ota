@@ -1,16 +1,9 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b33",
-    "build":  11333,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b33.bin",
-    "size":  1402352,
-    "sha256":  "7fb252ad77a12f63805c209473bc4e4ef907adf8017bfffef4ea9e14a77b5fc1",
-    "notes":  "OTA debug #17: Daisy DMA queue gating in dedicated update mode",
-    "daisy":  {
-                  "version":  "0.1.4",
-                  "build":  6,
-                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v0.1.4.bin",
-                  "size":  110256,
-                  "sha256":  "ca547fcf1753942955ec0eb9f131e12c64fb5fea80f12ff0b47584027975363f"
-              }
+    "version":  "1.13b34",
+    "build":  11334,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b34.bin",
+    "size":  1402848,
+    "sha256":  "e13e55156400dcfc2c6e0bef59ce3449f7fd106fea78e4c84234740cb1692f1d",
+    "notes":  "GitHub OTA build"
 }
