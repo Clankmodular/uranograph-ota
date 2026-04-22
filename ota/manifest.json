@@ -1,11 +1,11 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b23",
-    "build":  11323,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b23.bin",
+    "version":  "1.13b24",
+    "build":  11324,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b24.bin",
     "size":  1401968,
-    "sha256":  "b99a4b7ed4ddaebe427d99acabfb6ecdace88070d84d08c82c784cd104eabc6c",
-    "notes":  "OTA debug #8: fix Daisy sendBuffer update-mode response path",
+    "sha256":  "6a7006a0895bf46c011a06352805c5afb49ba01afc33b22dc7ab860f2f17c3ed",
+    "notes":  "OTA debug #9: fix false daisy silent detection using diag counters",
     "daisy":  {
                   "version":  "0.1.2",
                   "build":  4,
