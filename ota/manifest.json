@@ -1,11 +1,11 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b31",
-    "build":  11331,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b31.bin",
-    "size":  1401968,
-    "sha256":  "916642f0f36695678c33bf35d565caa4dad3eda7e3a3dbb01a3bcb4f6a3e0ca9",
-    "notes":  "OTA debug #15: Daisy dedicated update mode (audio off, OTA-only SPI service)",
+    "version":  "1.13b32",
+    "build":  11332,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b32.bin",
+    "size":  1402352,
+    "sha256":  "311ecb3ac2534e2513a4162c778cc41b9d94864146bd81acf3978b170a3bdef8",
+    "notes":  "OTA debug #16: in-band Daisy OTA over normal hwTask SPI path",
     "daisy":  {
                   "version":  "0.1.3",
                   "build":  5,
