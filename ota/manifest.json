@@ -1,16 +1,16 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b30",
-    "build":  11330,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b30.bin",
+    "version":  "1.13b31",
+    "build":  11331,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b31.bin",
     "size":  1401968,
-    "sha256":  "91cd0746790a1d4dac709184a45708a31a3a334f2cd4633436663557f59e6e2d",
-    "notes":  "OTA debug #14: normal SPI helper transport on ESP, baseline 11329 on-device",
+    "sha256":  "916642f0f36695678c33bf35d565caa4dad3eda7e3a3dbb01a3bcb4f6a3e0ca9",
+    "notes":  "OTA debug #15: Daisy dedicated update mode (audio off, OTA-only SPI service)",
     "daisy":  {
-                  "version":  "0.1.2",
-                  "build":  4,
-                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v0.1.2.bin",
-                  "size":  110136,
-                  "sha256":  "a4eda1dc43697d5348ed765d2ef8687f25354c03e69dd2db7d11dd5d4ce3d66c"
+                  "version":  "0.1.3",
+                  "build":  5,
+                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v0.1.3.bin",
+                  "size":  110192,
+                  "sha256":  "c64da13fa721ee4aec80c560af7963d6b9535bf6295888a37f0107953ad796b0"
               }
 }
