@@ -1,16 +1,9 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b48",
-    "build":  11348,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b48.bin",
+    "version":  "1.13b49",
+    "build":  11349,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b49.bin",
     "size":  1407936,
-    "sha256":  "d0d7ed031b1d256cde859680682b47ea956da87e60dc05a5d6e0f4fe90e43a7e",
-    "notes":  "Commit ESP first, Daisy flash non-fatal",
-    "daisy":  {
-                  "version":  "0.1.11",
-                  "build":  1110,
-                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v0.1.11.bin",
-                  "size":  118144,
-                  "sha256":  "89731f7f6c71bd309cf0a9b303fc6adb54ac7998b277f19ee38a1d78c55dc146"
-              }
+    "sha256":  "636b9cc0ffd72dc3c49ecefb4db76d112e13837484b5adb8c75d9c9d2ebb77ca",
+    "notes":  "ESP-only recovery update from fw42; no Daisy block"
 }
