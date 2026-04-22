@@ -5,12 +5,5 @@
     "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b51.bin",
     "size":  1411088,
     "sha256":  "45e6045c02ce2d94476164d532a4dd33777e1e50663113b9141acbf4087ff557",
-    "notes":  "Two-stage OTA: ESP update then Daisy resumes after reboot",
-    "daisy":  {
-                  "version":  "0.1.12",
-                  "build":  1111,
-                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v0.1.12.bin",
-                  "size":  118144,
-                  "sha256":  "89731f7f6c71bd309cf0a9b303fc6adb54ac7998b277f19ee38a1d78c55dc146"
-              }
+    "notes":  "Bootstrap two-stage OTA logic onto ESP; Daisy deferred to next hop"
 }
