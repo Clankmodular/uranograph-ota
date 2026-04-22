@@ -1,11 +1,11 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b46",
-    "build":  11346,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b46.bin",
-    "size":  1407472,
-    "sha256":  "4c6dcd18be188ea9441ec29749436ff1edf659a7ae5db0c66ca73984c02e97a0",
-    "notes":  "Daisy SPI: init peripheral last, arm DMA immediately before main loop",
+    "version":  "1.13b47",
+    "build":  11347,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b47.bin",
+    "size":  1407696,
+    "sha256":  "f12d71f92e9d89d953a1dcef40137aac972845e9425c973607eae0558f548f3b",
+    "notes":  "Diagnostic traces: flag observer + rogue SPI caller",
     "daisy":  {
                   "version":  "0.1.11",
                   "build":  1110,
