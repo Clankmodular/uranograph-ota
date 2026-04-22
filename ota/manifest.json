@@ -1,11 +1,11 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b47",
-    "build":  11347,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b47.bin",
-    "size":  1407696,
-    "sha256":  "f12d71f92e9d89d953a1dcef40137aac972845e9425c973607eae0558f548f3b",
-    "notes":  "Diagnostic traces: flag observer + rogue SPI caller",
+    "version":  "1.13b48",
+    "build":  11348,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b48.bin",
+    "size":  1407936,
+    "sha256":  "d0d7ed031b1d256cde859680682b47ea956da87e60dc05a5d6e0f4fe90e43a7e",
+    "notes":  "Commit ESP first, Daisy flash non-fatal",
     "daisy":  {
                   "version":  "0.1.11",
                   "build":  1110,
