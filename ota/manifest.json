@@ -1,16 +1,16 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b40",
-    "build":  11340,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b40.bin",
+    "version":  "1.13b41",
+    "build":  11341,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b41.bin",
     "size":  1404896,
-    "sha256":  "d5bbe25f987243e10c123fd55570edad512d494d2f4ec2e06a07283438e089cf",
-    "notes":  "Fix tx[43] race (OTA debounce gate) + sNextSeq=1 + reply trace",
+    "sha256":  "281cc140bb60a1af57527c3936fa6adb1226b3a8f3eab6715b2b9dbbe4614eda",
+    "notes":  "Phase 2: real IAP flash to STM32H750 internal flash + reset",
     "daisy":  {
-                  "version":  "0.1.6",
-                  "build":  8,
-                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v0.1.6.bin",
-                  "size":  117708,
-                  "sha256":  "c6350819a2ca93f83fa11645418788d18d1ee3ee8929974fa95b9b0a983eefd6"
+                  "version":  "0.1.7",
+                  "build":  9,
+                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v0.1.7.bin",
+                  "size":  118184,
+                  "sha256":  "c3f3b0e910e037ed77d5f1c01bf8f02dc9cc8916337fe3eebd923f0369f784b1"
               }
 }
