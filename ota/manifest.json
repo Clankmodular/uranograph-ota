@@ -1,16 +1,16 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b45",
-    "build":  11345,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b45.bin",
+    "version":  "1.13b46",
+    "build":  11346,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b46.bin",
     "size":  1407472,
-    "sha256":  "9365f7a9c039bc98408bc35d79cb55f43e3ca6e24f6dc67998c42e6fc71b87e6",
-    "notes":  "Daisy SPI: arm first DMA immediately after SpiHandle::Init",
+    "sha256":  "4c6dcd18be188ea9441ec29749436ff1edf659a7ae5db0c66ca73984c02e97a0",
+    "notes":  "Daisy SPI: init peripheral last, arm DMA immediately before main loop",
     "daisy":  {
-                  "version":  "0.1.10",
-                  "build":  1100,
-                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v0.1.10.bin",
-                  "size":  118184,
-                  "sha256":  "819938f52ec9f93637be7bfa9c5e104523ed7960e5a92dae135332195895267b"
+                  "version":  "0.1.11",
+                  "build":  1110,
+                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v0.1.11.bin",
+                  "size":  118144,
+                  "sha256":  "89731f7f6c71bd309cf0a9b303fc6adb54ac7998b277f19ee38a1d78c55dc146"
               }
 }
