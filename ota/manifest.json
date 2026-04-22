@@ -1,16 +1,16 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b39",
-    "build":  11339,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b39.bin",
-    "size":  1404592,
-    "sha256":  "ad46388c3b88408918a99dbad6a23928bf46af635c58d71369222714cb1350e7",
-    "notes":  "Daisy OTA handler Phase 1 (dry-run commit)",
+    "version":  "1.13b40",
+    "build":  11340,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b40.bin",
+    "size":  1404896,
+    "sha256":  "d5bbe25f987243e10c123fd55570edad512d494d2f4ec2e06a07283438e089cf",
+    "notes":  "Fix tx[43] race (OTA debounce gate) + sNextSeq=1 + reply trace",
     "daisy":  {
-                  "version":  "0.1.5",
-                  "build":  7,
-                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v0.1.5.bin",
+                  "version":  "0.1.6",
+                  "build":  8,
+                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v0.1.6.bin",
                   "size":  117708,
-                  "sha256":  "a498530d85e33395b54c0621ff881f5bb41199d1c7376fd0f5a815f57d80e471"
+                  "sha256":  "c6350819a2ca93f83fa11645418788d18d1ee3ee8929974fa95b9b0a983eefd6"
               }
 }
