@@ -1,14 +1,14 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b41",
-    "build":  11341,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b41.bin",
-    "size":  1404896,
-    "sha256":  "281cc140bb60a1af57527c3936fa6adb1226b3a8f3eab6715b2b9dbbe4614eda",
-    "notes":  "Phase 2: real IAP flash to STM32H750 internal flash + reset",
+    "version":  "1.13b42",
+    "build":  11342,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b42.bin",
+    "size":  1407472,
+    "sha256":  "bf0886a65562bff9851bb8ec98df28bf642b6d9bcdbc45c0b5eecd7d61b38051",
+    "notes":  "NVS-persist daisy build, skip reflash when up-to-date",
     "daisy":  {
                   "version":  "0.1.7",
-                  "build":  9,
+                  "build":  170,
                   "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v0.1.7.bin",
                   "size":  118184,
                   "sha256":  "c3f3b0e910e037ed77d5f1c01bf8f02dc9cc8916337fe3eebd923f0369f784b1"
