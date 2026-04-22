@@ -1,11 +1,11 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b24",
-    "build":  11324,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b24.bin",
-    "size":  1401968,
-    "sha256":  "6a7006a0895bf46c011a06352805c5afb49ba01afc33b22dc7ab860f2f17c3ed",
-    "notes":  "OTA debug #9: fix false daisy silent detection using diag counters",
+    "version":  "1.13b25",
+    "build":  11325,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b25.bin",
+    "size":  1402016,
+    "sha256":  "5b52d06a128bdd4b1c3be867b270a9ded006e1fc8df7d2e216b23d13f682d9fc",
+    "notes":  "OTA debug #10: gate Daisy UI on live link, retain false-silent fix",
     "daisy":  {
                   "version":  "0.1.2",
                   "build":  4,
