@@ -1,10 +1,10 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b75",
-    "build":  11375,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b75.bin",
+    "version":  "1.13b76",
+    "build":  11376,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b76.bin",
     "size":  1410032,
-    "sha256":  "6077338c8561b9597242c990b2ccbae630433a00278777730ec31edc256e088b",
+    "sha256":  "dd788d909a41b83dffdd8d00e7fbcfeeba459579ccad6e6119911d4229e4715c",
     "notes":  "Lower Daisy SPI link to 4 MHz for OTA integrity probe",
     "daisy":  {
                   "version":  "0.1.13",
