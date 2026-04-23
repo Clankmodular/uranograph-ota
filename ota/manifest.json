@@ -1,16 +1,16 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b77",
-    "build":  11377,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b77.bin",
+    "version":  "1.13b78",
+    "build":  11378,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b78.bin",
     "size":  1410032,
-    "sha256":  "c636aef4f04ad1909b402e275673330bde302d41e6ac0347ebbc1aef0c1a8351",
-    "notes":  "Add SPI CS setup/hold time plus 4 MHz Daisy OTA probe",
+    "sha256":  "aabfbbe24d9f82adbfdd3acc3c899cdfd5ec25c2437daef74c0a14b89b917fd3",
+    "notes":  "Daisy OTA CRC fallback receiver bootstrap plus ESP SPI timing probe",
     "daisy":  {
                   "version":  "0.1.13",
-                  "build":  1115,
+                  "build":  1116,
                   "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v0.1.13.bin",
-                  "size":  118296,
-                  "sha256":  "b891b60321535a801f2147f3ba217c276cd7e3f229503765dcea24a1f209d51f"
+                  "size":  118528,
+                  "sha256":  "cb17575439c2c7824322e2d343756afe07b97a4c5a50f7cac6a7af0d56b484ff"
               }
 }
