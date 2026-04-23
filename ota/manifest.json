@@ -1,11 +1,11 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b63",
-    "build":  11363,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b63.bin",
-    "size":  1410400,
-    "sha256":  "baec0441e547f15a05a4e3c1b10261c0b4be60772fe4d9ad358d45427fc17832",
-    "notes":  "Retry Daisy-before-ESP OTA with cooperative ESP staging download",
+    "version":  "1.13b65",
+    "build":  11365,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b65.bin",
+    "size":  1410064,
+    "sha256":  "7c568fcf98eac868d670e845f0ddaaed38be4e7bb280cdd053fbce42eb75ac48",
+    "notes":  "Flash Daisy before downloading ESP OTA",
     "daisy":  {
                   "version":  "0.1.12",
                   "build":  1112,
