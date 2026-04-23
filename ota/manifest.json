@@ -3,14 +3,14 @@
     "version":  "1.13b78",
     "build":  11378,
     "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b78.bin",
-    "size":  1410032,
-    "sha256":  "aabfbbe24d9f82adbfdd3acc3c899cdfd5ec25c2437daef74c0a14b89b917fd3",
-    "notes":  "Daisy OTA shifted-frame receiver fix on top of ESP SPI timing probe",
+    "size":  1410096,
+    "sha256":  "f4a713fb9d4d012cd1bc63a77c6b3a70d07de718f4f16397f2d40de0094b56dd",
+    "notes":  "Daisy OTA full-window subframe search on top of ESP SPI timing probe",
     "daisy":  {
                   "version":  "0.1.13",
-                  "build":  1117,
+                  "build":  1118,
                   "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v0.1.13.bin",
                   "size":  118768,
-                  "sha256":  "37ccb2eaac218d64905f72bffc90156ff3bb6f23737783c88149f60bdc133a9b"
+                  "sha256":  "94b8d3216d992387676c92c6a78dbef2ca1ee442492c7c844858398766c2b589"
               }
 }
