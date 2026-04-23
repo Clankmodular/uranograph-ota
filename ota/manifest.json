@@ -1,11 +1,11 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b71",
-    "build":  11371,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b71.bin",
-    "size":  1409888,
-    "sha256":  "b1eb22a3fa27a3b192750d20bd2f8cc47c74556974622eb6a3a348c50adc5eb9",
-    "notes":  "Clean Daisy OTA replies and remove non-protocol diagnostic frames",
+    "version":  "1.13b73",
+    "build":  11373,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b73.bin",
+    "size":  1410032,
+    "sha256":  "13a3103b6bcd681e1c50986b10009ba5b852c14860bc334567af5dabae4235c3",
+    "notes":  "Serialize OTA frame copy and SPI DMA under mutex",
     "daisy":  {
                   "version":  "0.1.13",
                   "build":  1115,
