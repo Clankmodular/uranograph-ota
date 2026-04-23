@@ -1,16 +1,16 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b69",
-    "build":  11369,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b69.bin",
-    "size":  1410112,
-    "sha256":  "d010dd7d6cc63096c8dbd441d5feca478c4a68737c432fc89c6d23c0a833651e",
-    "notes":  "Daisy ignores non-idle non-OTA commands instead of triggering legacy reset",
+    "version":  "1.13b71",
+    "build":  11371,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b71.bin",
+    "size":  1409888,
+    "sha256":  "b1eb22a3fa27a3b192750d20bd2f8cc47c74556974622eb6a3a348c50adc5eb9",
+    "notes":  "Clean Daisy OTA replies and remove non-protocol diagnostic frames",
     "daisy":  {
-                  "version":  "0.1.12",
-                  "build":  1114,
-                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v0.1.12.bin",
-                  "size":  118192,
-                  "sha256":  "3514658426dcd710a00e522abee06392275c2dc7e5e83635bafbfa7ce5ba2382"
+                  "version":  "0.1.13",
+                  "build":  1115,
+                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v0.1.13.bin",
+                  "size":  118296,
+                  "sha256":  "b891b60321535a801f2147f3ba217c276cd7e3f229503765dcea24a1f209d51f"
               }
 }
