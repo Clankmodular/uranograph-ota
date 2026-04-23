@@ -1,11 +1,11 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b56",
-    "build":  11356,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b56.bin",
-    "size":  1411424,
-    "sha256":  "4aa7d3dcc31d1f9defd3ef871d7f9811a65d9abd30920d858acf4c8495ab17d7",
-    "notes":  "Wait for normal Daisy SPI traffic before OTA mode",
+    "version":  "1.13b57",
+    "build":  11357,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b57.bin",
+    "size":  1411504,
+    "sha256":  "1f13d6b9f57f13f6145485ec2435027143537fb791b25892ab3706914d27ca66",
+    "notes":  "Require fresh valid Daisy SPI frames after WiFi off before OTA mode",
     "daisy":  {
                   "version":  "0.1.12",
                   "build":  1111,
