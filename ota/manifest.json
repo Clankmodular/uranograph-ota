@@ -1,11 +1,11 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b66",
-    "build":  11366,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b66.bin",
-    "size":  1410064,
-    "sha256":  "b631129104972f2c31be37ee7749dbf5de266d57d5c4f5f7791283c003273618",
-    "notes":  "Daisy SPI DMA rearm fix build",
+    "version":  "1.13b68",
+    "build":  11368,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b68.bin",
+    "size":  1410112,
+    "sha256":  "24124e8b9df2dc1747d2b6f5163c82e98bd684f0e0620fd2d311945b2b42c3c5",
+    "notes":  "Ignore impossible 0xFF Daisy BEGIN filler reply",
     "daisy":  {
                   "version":  "0.1.12",
                   "build":  1113,
