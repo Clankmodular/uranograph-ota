@@ -1,16 +1,16 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b98",
-    "build":  11398,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b98.bin",
-    "size":  1413344,
-    "sha256":  "98dd39d0fccc781769c958aa20ab87cd7fcd5f798a51de0d2536af5f11f429be",
+    "version":  "1.13b99",
+    "build":  11399,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b99.bin",
+    "size":  1413888,
+    "sha256":  "565f6f207852ef8182d812afdcd611cedf53d10bf0e74c2d80d510a81828c60a",
     "notes":  "GitHub OTA build",
     "daisy":  {
                   "version":  "0.1.13",
-                  "build":  1130,
+                  "build":  1131,
                   "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v0.1.13.bin",
                   "size":  119116,
-                  "sha256":  "e2b89910689c195e742c51a59fb96bf3f6fafeb7b742cbecbfbf14d16ab0c860"
+                  "sha256":  "f4b4c824be1cf93641e99f1398cfbcb29fe1ea5c7f3849ec42f73270524c2e74"
               }
 }
