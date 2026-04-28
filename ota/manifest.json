@@ -1,16 +1,9 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.13b01",
-    "build":  11401,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b01.bin",
-    "size":  1403632,
-    "sha256":  "4f11d0532bd2ce77ecae750dbc2c6fda46552b0a084be3cdced2dafc35d02302",
-    "notes":  "OTA retry after deferred group update save",
-    "daisy":  {
-                  "version":  "0.1.13",
-                  "build":  1131,
-                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v0.1.13.bin",
-                  "size":  111908,
-                  "sha256":  "b91fdc875d0df81a112e4e76f33062f9abcd45278c9a666b0a8327ee77c848f3"
-              }
+    "version":  "1.13b02",
+    "build":  11402,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13b02.bin",
+    "size":  1407744,
+    "sha256":  "979d51ceff23d91f6f925157cf195e5e21326b13a97b2d0d41f1abe8cd7c1810",
+    "notes":  "OTA update 1.13b02"
 }
