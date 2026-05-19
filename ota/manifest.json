@@ -5,5 +5,12 @@
     "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.13.02.bin",
     "size":  1404672,
     "sha256":  "143308a182669b142339f35424ceaf498d430b40d305439faa1ee2e0dcaf5301",
-    "notes":  "OTA update 1.13.02 build 11405"
+    "notes":  "OTA update 1.13.02 build 11405",
+    "daisy":  {
+                  "version":  "1.13.01",
+                  "build":  11403,
+                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v1.13.01.bin",
+                  "size":  111908,
+                  "sha256":  "af1f0809045c37abe42142eed2990de4c9dd728a0d14549963585f935081a52e"
+              }
 }
