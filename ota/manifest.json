@@ -5,5 +5,12 @@
     "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/andrea-test/ota/firmware/uranograph-v1.14-test01.bin",
     "size":  1663024,
     "sha256":  "92e783838c68b07704e8b781a8c345a338f82120f204ec3caf8d35efaad2daed",
-    "notes":  "Private OTA test 1.14 build 11406"
+    "notes":  "Private OTA test 1.14 build 11406 with Daisy",
+    "daisy":  {
+                  "version":  "1.14-test01",
+                  "build":  11406,
+                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/andrea-test/ota/firmware/uranograph-daisy-v1.14-test01.bin",
+                  "size":  105188,
+                  "sha256":  "e2a52c301507cbd7b9821408fe408906495740d03138c431f378f995288bcf9b"
+              }
 }
