@@ -1,16 +1,16 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.14-test02",
-    "build":  11407,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/andrea-test/ota/firmware/uranograph-v1.14-test02.bin",
-    "size":  1663024,
-    "sha256":  "58a8d26c0ca697677e57baa12e3e4cabc01b4b8bd5b8ca568a8ffcc784b4a845",
-    "notes":  "Private OTA test 1.14 build 11407 with Daisy",
+    "version":  "1.15-test01",
+    "build":  11501,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/andrea-test/ota/firmware/uranograph-v1.15-test01.bin",
+    "size":  1689088,
+    "sha256":  "f179b3cffdd4673c0fd679a58e4f9bb5eba3969be1c093f4f67e473ceac1a184",
+    "notes":  "Private OTA test 1.15 full features with ESP and Daisy",
     "daisy":  {
-                  "version":  "1.14-test02",
-                  "build":  11407,
-                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/andrea-test/ota/firmware/uranograph-daisy-v1.14-test02.bin",
-                  "size":  105188,
-                  "sha256":  "e2a52c301507cbd7b9821408fe408906495740d03138c431f378f995288bcf9b"
+                  "version":  "1.15-test01",
+                  "build":  11501,
+                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/andrea-test/ota/firmware/uranograph-daisy-v1.15-test01.bin",
+                  "size":  123296,
+                  "sha256":  "528b6b9ecfeb4eb5487f9dcc50e9945f472707e29d1914b70f749f0bed86daf5"
               }
 }
