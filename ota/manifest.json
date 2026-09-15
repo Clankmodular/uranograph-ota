@@ -1,16 +1,16 @@
 {
     "device":  "uranograph-esp32",
-    "version":  "1.14.00",
-    "build":  11408,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.14.00.bin",
-    "size":  1745040,
-    "sha256":  "c8480c4965ef76ad597b1c70506d4799ec6e80893f05da95d7d2f1c7efa1b3a4",
-    "notes":  "Uranograph 1.14.00 public release. Includes ESP32 and Daisy firmware.",
+    "version":  "1.14.01",
+    "build":  11409,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-v1.14.01.bin",
+    "size":  1745024,
+    "sha256":  "4f41e46f0ecbfcae0cc9e56b463aa95338c76f4fb19a6e681c9818badb9e74f3",
+    "notes":  "Uranograph 1.14.01 public release. Version/build increment for repeating the Wi-Fi update on ESP32 and Daisy; same functionality as 1.14.00.",
     "daisy":  {
-                  "version":  "1.14.00",
-                  "build":  11408,
-                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v1.14.00.bin",
+                  "version":  "1.14.01",
+                  "build":  11409,
+                  "url":  "https://raw.githubusercontent.com/Clankmodular/uranograph-ota/main/ota/firmware/uranograph-daisy-v1.14.01.bin",
                   "size":  109160,
-                  "sha256":  "83b541d80206c51ed01126cf402801099182bd39c5aca8d167d40356ece8a20e"
+                  "sha256":  "3ed150a0eed26de0bca4d3e36dcfba085d1decf9f304c188f668082139c1527c"
               }
 }
